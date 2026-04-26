@@ -1,0 +1,3 @@
+hellooo 
+this is my new txt file
+learning a git and github
